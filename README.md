@@ -5,12 +5,12 @@ A little tool to convert runescript back and forth.
 
 Usage:
 ```
-$ py runescript.py futhorc runescript
-ᚠᚢᛏᚻᚩᚱᚳ ᚱᚢᚾᛖᛋᚳᚱᛁᛈᛏ
+$ python runescript.py "futhorc runescript"
+ᚠᚢᚦᚩᚱᚳ᛫ᚱᚢᚾᛖᛋᚳᚱᛁᛈᛏ
 ```
 
 or:
 ```
-$ py runescript.py -fe ᚠᚢᛏᚻᚩᚱᚳ ᚱᚢᚾᛖᛋᚳᚱᛁᛈᛏ
+$ python runescript.py -fe "ᚠᚢᚦᚩᚱᚳ᛫ᚱᚢᚾᛖᛋᚳᚱᛁᛈᛏ"
 futhorc runescript
 ```
